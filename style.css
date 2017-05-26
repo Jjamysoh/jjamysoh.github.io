@@ -1,0 +1,41 @@
+img{
+  margin-top: 10px;
+  max-width: 250px;
+  max-height: 250px;
+  border: solid white 6px;
+  border-radius: 250px
+}
+
+
+header{
+  background: url("http://www.si55plus.org/uploads/tumblr_static_orask.jpg");
+}
+
+.header{
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+}
+
+h2{
+  background-color:white;
+   font-family: monospace;
+font-size: 25px}
+
+
+section{
+  max-width: 500px;
+  max-height: 500px;
+}
+
+body{
+  padding-right: 25px;
+  padding-left: 25px;
+  text-align:center;
+  background: url("http://www.si55plus.org/uploads/tumblr_static_orask.jpg");
+  background-size: cover;
+  color: black;
+}
+
+.button{
+    border: solid white 6px
+  }
